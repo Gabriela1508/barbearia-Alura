@@ -2,3 +2,9 @@ body {
     text-align:center;
     background:#cccccc;
 } 
+strong{
+    color: cadetblue;
+}
+.banner{
+    width: 100%;
+}
